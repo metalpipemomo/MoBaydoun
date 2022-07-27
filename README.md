@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoBaydoun
 - 👀 I’m interested in things that are fun
-- 🌱 I’m currently learning DirectX
-- 💞️ I’m looking for work
+- 🌱 I’m currently learning the t3 stack
+- 💞️ I’m looking for money
 - 📫 How to reach me mbaydoun@my.bcit.ca
 
 <!---
